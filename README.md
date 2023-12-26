@@ -1,2 +1,1 @@
-# Hero
-MC packs for wr
+# WildRose Resource PAck
